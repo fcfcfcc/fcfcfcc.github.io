@@ -1,11 +1,11 @@
 
-title: Karna
-desctiption: Karna is a responsive jekyll theme which includes pinterest like pins.
-url: http://webjeda.com/
+title: Songhoo
+desctiption: Songhoo is a cartoon character based in Shanghai.
+url: http://songhoo.com/
 permalink: ':title/'
 
 markdown: kramdown
-baseurl: "/karna"
+baseurl: ""
 
 
 sass:
