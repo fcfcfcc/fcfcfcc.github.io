@@ -1,19 +1,17 @@
 ---
+title: Who is Songhoo?
+date: '2016-06-13 05:21:47'
 layout: post
-title:  "Who is Karna?"
-description: Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis vehicula tincidunt lacus nec fringilla. Morbi molestie fringilla laoreet. Vestibulum venenatis ante in imperdiet venenatis. 
-date:   2016-06-13 10:51:47 +0530
-categories: jekyll update
+description: This is a description of Songhoo.
+categories:
+- one
+- two
 img: karna.jpg
-categories: [one, two]
 color: 1976D2
 author: webjeda
 ---
-Karna is one of the central characters in the Hindu epic Mahābhārata. Karna was one of the greatest warriors, whose martial exploits are recorded in the epic, and the only warrior believed to be able to defeat Arjuna in battle.
+怂货是八神疾风的守护骑士之一，盾之守护兽。与菲特的使魔艾尔芙类似，可变身为人形和巨型灰色狼犬两种形态。其中变身为人形形态时，可能会消耗魔力。所以在第三部SS当中经常看到扎斐拉是保持巨型灰色狼的状态。在AS结局尾声当中，还变身成像艾尔芙那种的小狗形态。攻击方式为从地面伸出巨型的钢刺进行攻击。
 
-Karna was the son of Surya(Sun) and Kunti, born to Kunti before her marriage with Pandu.
+![Karna](%7B%7Bsite.baseurl%7D%7D/images/karna-2.jpg)
 
-![Karna]({{site.baseurl}}/images/karna-2.jpg)
-
-
-Image Credits - [18days](https://www.youtube.com/watch?v=kyHFBybC3RI) and [Nisachar](http://nisachar.deviantart.com/gallery/37429163/18-Days) 
+Image Credits - [18days](https://www.youtube.com/watch?v=kyHFBybC3RI) and [Nisachar](http://nisachar.deviantart.com/gallery/37429163/18-Days)
